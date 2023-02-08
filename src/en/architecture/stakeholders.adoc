@@ -4,6 +4,7 @@
 
 .BusinessAdmin
 #<Role decription without concrete person yet, persona style>#
+Nils Magnus
 
 .ExploringUser
 #<Role decription without concrete person yet, persona style>#
